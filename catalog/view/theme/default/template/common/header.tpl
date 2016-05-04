@@ -114,6 +114,7 @@
         <?php } ?>
         <!-- edit -->
           <li><a href="/projectfordmitry/index.php?route=information/information&information_id=7">School</a></li>
+          <li><a href="/projectfordmitry/index.php?route=information/information&information_id=8">Work</a></li>
         <!-- edit -->
       </ul>
     </div>
